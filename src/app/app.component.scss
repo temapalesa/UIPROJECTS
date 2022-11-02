@@ -1,0 +1,49 @@
+.menu{
+    padding-right: 5rem;
+    height: max-content;
+    justify-content: center;
+}
+
+.button{
+    background-image: linear-gradient(to left bottom, #ff7000, #ff8d3b, #fda764, #fabe8e, #f5d5ba);
+    border-color: #ffff;
+    
+}
+
+.con{
+    
+    font-size:60px; 
+    line-height: 3.5rem;
+    padding-top: .5rem;
+    
+}
+
+.btns{
+
+   justify-content: space-between;
+}
+
+.icn{
+    padding-left: 1.5rem;
+    border-radius: 1rem;
+    
+}
+
+
+    .image{
+      
+        height: 7rem;
+       width: 8rem;
+       padding-left: 1.9rem;
+
+}
+
+.cardB{
+    background-color: lightgray;
+   }
+
+.cr2image{
+    height: 300px;
+    width: 300px;
+    background-color: adjust-hue($color: #000000, $degrees: 0);
+}
